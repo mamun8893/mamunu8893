@@ -123,7 +123,7 @@
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/mamunurrashid8893/Ecommerce" title="Ecommerce"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mrmmamun&repo=Ecommerce&theme=gotham"></a><a align="right" href="https://github.com/mamunurrashid8893/newspaper" title="Newspaper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mamunurrashid8893&repo=newspaper&theme=gotham"></a>
+  <a align="left" href="https://github.com/mamunurrashid8893/Ecommerce" title="Ecommerce"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mamunurrashid8893&repo=Ecommerce&theme=gotham"></a><a align="right" href="https://github.com/mamunurrashid8893/newspaper" title="Newspaper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mamunurrashid8893&repo=newspaper&theme=gotham"></a>
 </p>
 <br><br>
 <p width="100%" align="center">
