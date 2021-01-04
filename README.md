@@ -71,7 +71,7 @@
   </tr>
   <tr>
  <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="#" >
         <img src="https://raw.githubusercontent.com/Mrmmamun/image/70e139a6c5cd7be316986f6269ac5f7b7ab9d60c/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
